@@ -10,9 +10,12 @@ Hi, this is the official implementation of our paper "Towards Open Set Video Ano
 Download the features from 
 
 ### **Step two**
-Make list and git
+Creat enviroment
 
 ### **Step three**
+Make list and gt
+
+### **Step four**
 Training and testing
 #### XD-Violence
 #### ShanghaiTech
