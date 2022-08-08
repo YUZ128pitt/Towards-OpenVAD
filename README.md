@@ -1,5 +1,5 @@
 # Towards-OpenVAD(Under construction)
-Hi, this is the official implementation of our ECCV 2022 paper "Towards Open Set Video Anomaly Detection"
+Hi, this is the official implementation of our paper "Towards Open Set Video Anomaly Detection", which will appear in ECCV 2022 soon.
 
 ![framework2.pdf](https://github.com/YUZ128pitt/Towards-OpenVAD/files/9181464/framework2.pdf)
 
