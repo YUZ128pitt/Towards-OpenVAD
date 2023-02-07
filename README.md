@@ -1,5 +1,6 @@
 # Towards-OpenVAD(Under construction)
 [Yuansheng Zhu](https://sites.google.com/view/yuz128/home), [Wentao Bao](https://cogito2012.github.io/homepage/), and [Qi Yu](https://cogito2012.github.io/homepage/)
+
 This is the official implementation of our paper "Towards Open Set Video Anomaly Detection" in ECCV 2022.
 
 ![framework2.pdf](https://github.com/YUZ128pitt/Towards-OpenVAD/files/9181464/framework2.pdf)
