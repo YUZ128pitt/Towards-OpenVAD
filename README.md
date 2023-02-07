@@ -14,17 +14,17 @@ This is the official implementation of our paper "Towards Open Set Video Anomaly
 **Abstract**: Open Set Video Anomaly Detection (OpenVAD) aims to identify abnormal events from video data where both known anomalies and novel ones exist in testing. Unsupervised models learned solely from normal videos are applicable to any testing anomalies but suffer from a high false positive rate. In contrast, weakly supervised methods are effective in detecting known anomalies but could fail in an open world. We develop a novel weakly supervised method for the OpenVAD problem by integrating evidential deep learning (EDL) and normalizing flows (NFs) into a multiple instance learning (MIL) framework. Specifically, we propose to use graph neural networks and triplet loss to learn discriminative features for training the EDL classifier, where the EDL is capable of identifying the unknown anomalies by quantifying the uncertainty. Moreover, we develop an uncertainty-aware selection strategy to obtain clean anomaly instances and a NFs module to generate the pseudo anomalies. Our method is superior to existing approaches by inheriting the advantages of both the unsupervised NFs and the weakly-supervised MIL framework. Experimental results on multiple real-world video datasets show the effectiveness of our method.
 
 ## Experiments
-### *Data preparation*
-+We validate our method on three datasets: [Xd-Violence](https://roc-ng.github.io/XD-Violence/), [UCF-Crime](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018), and [ShanghaiTech Campus](https://roc-ng.github.io/XD-Violence/). 
+### Data preparation
++ We validate our method on three datasets: [Xd-Violence](https://roc-ng.github.io/XD-Violence/), [UCF-Crime](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018), and [ShanghaiTech Campus](https://roc-ng.github.io/XD-Violence/). 
 
-+The raw data could be found in the linked file, and we use extracted features. You can dwonload the feature of UCF and ShanghaiTech from [link](https://github.com/tianyu0207/RTFM), and Xd-Violence from [link]()
++ The raw data could be found in the linked file, and we use extracted features. You can dwonload the feature of UCF and ShanghaiTech from [link](https://github.com/tianyu0207/RTFM), and Xd-Violence from [link]()
 
-+Furthermore, to create the Open Set Video anomaly detection scenario which mimics the natural characteristics of anomalous events, we resplit the data. The details could be found in [Data splite](https://www.dropbox.com/sh/tc095p4s0l827vi/AABPzvLLIcRUuZ47AtQi3ESaa?dl=0) for replication purpose.
++ Furthermore, to create the Open Set Video anomaly detection scenario which mimics the natural characteristics of anomalous events, we resplit the data. The details could be found in [Data splite](https://www.dropbox.com/sh/tc095p4s0l827vi/AABPzvLLIcRUuZ47AtQi3ESaa?dl=0) for replication purpose.
 
-### *Runing environment*
+### Runing environment
 Creat enviroment
 
-### *Runing*
+### Runing
 Make list and gt
 
 
