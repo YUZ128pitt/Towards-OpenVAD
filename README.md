@@ -1,6 +1,6 @@
 # Towards-OpenVAD
 
-(Last update: 02/06, approximate to finish it before 02/21/2023)
+News: Last update: 02/06, approximate to finish it before 02/21/2023
 
 [Yuansheng Zhu](https://sites.google.com/view/yuz128/home), [Wentao Bao](https://cogito2012.github.io/homepage/), and [Qi Yu](https://www.rit.edu/directory/qyuvks-qi-yu)
 
@@ -15,11 +15,11 @@ This is the official implementation of our paper "Towards Open Set Video Anomaly
 
 ## Experiments
 ### *Data preparation*
-We validate our method on three datasets: [Xd-Violence](https://roc-ng.github.io/XD-Violence/), [UCF-Crime](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018), and [ShanghaiTech Campus](https://roc-ng.github.io/XD-Violence/). 
++We validate our method on three datasets: [Xd-Violence](https://roc-ng.github.io/XD-Violence/), [UCF-Crime](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018), and [ShanghaiTech Campus](https://roc-ng.github.io/XD-Violence/). 
 
-The raw data could be found in the linked file, and we use extracted features. You can dwonload the feature of UCF and ShanghaiTech from [link](https://github.com/tianyu0207/RTFM), and Xd-Violence from [link]()
++The raw data could be found in the linked file, and we use extracted features. You can dwonload the feature of UCF and ShanghaiTech from [link](https://github.com/tianyu0207/RTFM), and Xd-Violence from [link]()
 
-Furthermore, to create the Open Set Video anomaly detection scenario which mimics the natural characteristics of anomalous events, we resplit the data. The details could be found in [Data splite](https://www.dropbox.com/sh/tc095p4s0l827vi/AABPzvLLIcRUuZ47AtQi3ESaa?dl=0) for replication purpose.
++Furthermore, to create the Open Set Video anomaly detection scenario which mimics the natural characteristics of anomalous events, we resplit the data. The details could be found in [Data splite](https://www.dropbox.com/sh/tc095p4s0l827vi/AABPzvLLIcRUuZ47AtQi3ESaa?dl=0) for replication purpose.
 
 ### *Runing environment*
 Creat enviroment
