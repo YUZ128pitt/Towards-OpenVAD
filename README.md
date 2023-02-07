@@ -19,12 +19,12 @@ We validate our method on three datasets: [Xd-Violence](https://roc-ng.github.io
 
 The raw data could be found in the linked file, and we use extracted features. You can dwonload the feature of UCF and ShanghaiTech from [link](https://github.com/tianyu0207/RTFM), and Xd-Violence from [link]()
 
-To create the Open Set Video anomaly detection senario, we resplit the datal, and the details could be found in [Data splite](https://www.dropbox.com/sh/tc095p4s0l827vi/AABPzvLLIcRUuZ47AtQi3ESaa?dl=0).
+Furthermore, to create the Open Set Video anomaly detection scenario which mimics the natural characteristics of anomalous events, we resplit the data. The details could be found in [Data splite](https://www.dropbox.com/sh/tc095p4s0l827vi/AABPzvLLIcRUuZ47AtQi3ESaa?dl=0) for replication purpose.
 
-### **Runing environment*
+### *Runing environment*
 Creat enviroment
 
-### **Runing**
+### *Runing*
 Make list and gt
 
 
