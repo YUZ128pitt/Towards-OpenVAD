@@ -25,14 +25,6 @@ Creat enviroment
 ### Runing
 Make list and gt
 
-## Acknowledgements
-This project contains codes from following repostories: 
-+ [Xd-Violence](https://roc-ng.github.io/XD-Violence/)
-+ [RTFM](https://github.com/tianyu0207/RTFM)
-+ [Posterior Network](https://github.com/sharpenb/Posterior-Network). 
-
-We sincirelly thank for their great efforts!
-
 ## Citation
 ```
 @inproceedings{zhu2022towards,
@@ -45,4 +37,11 @@ We sincirelly thank for their great efforts!
 }
 ```
 
+## Acknowledgements
+This project contains codes from following repostories: 
++ [Xd-Violence](https://roc-ng.github.io/XD-Violence/)
++ [RTFM](https://github.com/tianyu0207/RTFM)
++ [Posterior Network](https://github.com/sharpenb/Posterior-Network). 
+
+We sincirelly thank for their great efforts!
 
