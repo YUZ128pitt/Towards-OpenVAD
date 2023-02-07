@@ -15,9 +15,9 @@ This is the official implementation of our paper "Towards Open Set Video Anomaly
 
 ## Experiments
 ### Data preparation
-+ We validate our method on three datasets: [Xd-Violence](https://roc-ng.github.io/XD-Violence/), [UCF-Crime](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018), and [ShanghaiTech Campus](https://roc-ng.github.io/XD-Violence/). 
-+ The raw data could be found in the linked file, and we use extracted features. You can dwonload the feature of UCF and ShanghaiTech from [link](https://github.com/tianyu0207/RTFM), and Xd-Violence from [link](https://roc-ng.github.io/XD-Violence/)
-+ Furthermore, to create the OpenVAD scenario which mimics the natural characteristics of anomalous events, we resplit the data. The details could be found in [Data splite](https://www.dropbox.com/sh/tc095p4s0l827vi/AABPzvLLIcRUuZ47AtQi3ESaa?dl=0) to be used for replication results.
++ The raw data of three datasets could be found in: [Xd-Violence](https://roc-ng.github.io/XD-Violence/), [UCF-Crime](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018), and [ShanghaiTech Campus](https://roc-ng.github.io/XD-Violence/). 
++ The extracted features of UCF and ShanghaiTech is from [link](https://github.com/tianyu0207/RTFM), and Xd-Violence is from [link](https://roc-ng.github.io/XD-Violence/)
++ Furthermore, to create the OpenVAD scenario which mimics the natural characteristics of anomalous events, we resplit the data. The details of split could be found in [Dropbox](https://www.dropbox.com/sh/tc095p4s0l827vi/AABPzvLLIcRUuZ47AtQi3ESaa?dl=0).
 
 ### Runing environment
 Creat enviroment
@@ -30,6 +30,7 @@ This project contains codes from following repostories:
 + [Xd-Violence](https://roc-ng.github.io/XD-Violence/)
 + [RTFM](https://github.com/tianyu0207/RTFM)
 + [Posterior Network](https://github.com/sharpenb/Posterior-Network). 
+
 We sincirelly thank for their great efforts!
 
 ## Citation
