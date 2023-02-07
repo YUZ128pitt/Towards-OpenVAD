@@ -25,9 +25,8 @@ Creat enviroment
 ### Runing
 Make list and gt
 
-
 ## Acknowledgements
-
+This project is based upon follwong works [Xd-Violence](https://roc-ng.github.io/XD-Violence/), [RTFM](https://github.com/tianyu0207/RTFM), [Posterior Network](https://github.com/sharpenb/Posterior-Network). Thanks for their great efforts!
 
 ## Citation
 ```
