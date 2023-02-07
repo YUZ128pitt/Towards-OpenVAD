@@ -2,7 +2,7 @@
 
 (Last update: 02/06, approximate to finish it before 02/21/2023)
 
-[Yuansheng Zhu](https://sites.google.com/view/yuz128/home), [Wentao Bao](https://cogito2012.github.io/homepage/), and [Qi Yu](https://cogito2012.github.io/homepage/)
+[Yuansheng Zhu](https://sites.google.com/view/yuz128/home), [Wentao Bao](https://cogito2012.github.io/homepage/), and [Qi Yu](https://www.rit.edu/directory/qyuvks-qi-yu)
 
 This is the official implementation of our paper "Towards Open Set Video Anomaly Detection" in ECCV 2022.
 
