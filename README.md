@@ -1,4 +1,7 @@
-# Towards-OpenVAD(Under construction)
+# Towards-OpenVAD
+
+(Last update: 02/06, approximate to finish it before 02/21/2023)
+
 [Yuansheng Zhu](https://sites.google.com/view/yuz128/home), [Wentao Bao](https://cogito2012.github.io/homepage/), and [Qi Yu](https://cogito2012.github.io/homepage/)
 
 This is the official implementation of our paper "Towards Open Set Video Anomaly Detection" in ECCV 2022.
@@ -31,4 +34,18 @@ Training and testing
 #### UCF-Crime
 
 ## Acknowledgements
+
+
+## Citation
+```
+@inproceedings{zhu2022towards,
+  title={Towards Open Set Video Anomaly Detection},
+  author={Zhu, Yuansheng and Bao, Wentao and Yu, Qi},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XXXIV},
+  pages={395--412},
+  year={2022},
+  organization={Springer}
+}
+```
+
 
