@@ -18,10 +18,10 @@ This is the official implementation of our paper [Towards Open Set Video Anomaly
 + The extracted features of UCF and ShanghaiTech is from [link](https://github.com/tianyu0207/RTFM), and Xd-Violence is from [link](https://roc-ng.github.io/XD-Violence/)
 + The details of split could be found in [Dropbox](https://www.dropbox.com/sh/tc095p4s0l827vi/AABPzvLLIcRUuZ47AtQi3ESaa?dl=0). To create the OpenVAD scenario which mimics the natural characteristics of anomalous events, we resplit the data.
 
-### Runing environment
+### Running environment
 Creat enviroment
 
-### Runing
+### Running
 Make list and gt
 
 ## Citation
